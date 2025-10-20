@@ -3,7 +3,7 @@
 **erome** の動画やアルバムを簡単にダウンロードできるスクリプトです。  
 `src` ディレクトリ内には **Python** と **Go** の2種類の実装があり、どちらも同じ動作をします。
 
-[English version here](#https://github.com/Madoa5561/erome-videodownloader/blob/main/README_en.md)
+[English README here](https://github.com/Madoa5561/erome-videodownloader/blob/main/README_en.md)
 
 ---
 
