@@ -1,6 +1,6 @@
 English README
 
-日本語版はこちら
+[日本語版はこちら](https://github.com/Madoa5561/erome-videodownloader/blob/main/README.md)
 
 erome Downloader is a simple script to download videos or albums from erome.
 Both Python and Go implementations are available under the src directory, performing the same behavior.
