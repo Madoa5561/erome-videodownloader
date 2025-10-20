@@ -43,7 +43,9 @@ go run main.go
 
 > [!Note]
 > The download folder is automatically created in the current directory.
+> 
 > Private albums are not supported.
+> 
 > Please use this script for personal purposes only, following erome’s Terms of Service.
 
 License
