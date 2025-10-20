@@ -63,7 +63,7 @@ eromeの利用規約に従い、個人利用の範囲でご使用ください。
 
 MIT License
 
-[LICENSE URL]([#LICENSE](https://github.com/Madoa5561/erome-videodownloader/blob/main/LICENSE))
+[LICENSE URL](https://github.com/Madoa5561/erome-videodownloader/blob/main/LICENSE)
 
 自由に改変・再配布可能です。
 
