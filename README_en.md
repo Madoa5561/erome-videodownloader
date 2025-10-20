@@ -1,4 +1,4 @@
-English README
+## English README
 
 [日本語版はこちら](https://github.com/Madoa5561/erome-videodownloader/blob/main/README.md)
 
@@ -22,21 +22,20 @@ erome-downloader/
 │   └── go/        # Go version
 └── README.md
 
-Requirements
+## Requirements
 
 Python 3.x
 
 Go 1.20+
 
 Usage
-Python Version
-
+### Python Version
 ```bash
 cd src/python
 python main.py
 ```
 
-Go Version
+### Go Version
 ```bash
 cd src/go
 go run main.go
